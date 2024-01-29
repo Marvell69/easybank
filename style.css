@@ -140,19 +140,19 @@ h3 {
 .art {
   padding: 1rem 0;
 }
-
-/* responsiveness */
-/* @media only screen and (max-width: 500px) {
-  .container {
-    display: flex;
-    flex-direction: column;
-  }
-  .next {
-    display: flex;
-    flex-direction: column;
-  }
-  .flx-3 {
-    display: flex;
-    flex-direction: column;
-  }
-} */
+.sec-5 {
+  background-color: hsl(233, 26%, 24%);
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  line-height: 2;
+  color: white;
+}
+.ig2 {
+  background-color: hsl(225, 10%, 92%);
+  padding: 2rem;
+}
+.bttn-3 {
+  color: white;
+  line-height: 2;
+}
