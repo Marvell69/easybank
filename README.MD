@@ -10,8 +10,7 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
   - [Links](#links)
 
-- [My process](#my-process)
-  -
+- ## [My process](#my-process)
 
 ## Overview
 
