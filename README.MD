@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Marvell69/easybank)
+- Solution URL: [Add solution URL here](https://github.com/Marvell69/easybank.git)
 
 ## My process
 
